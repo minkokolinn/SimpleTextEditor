@@ -1,0 +1,57 @@
+C:\HTET OO HLAING_00000000_DDOOCP_GLOBAL ASSIGNMENT\Simple Text Editor\bin\Debug\Simple Text Editor.exe.config
+C:\HTET OO HLAING_00000000_DDOOCP_GLOBAL ASSIGNMENT\Simple Text Editor\bin\Debug\Simple Text Editor.exe
+C:\HTET OO HLAING_00000000_DDOOCP_GLOBAL ASSIGNMENT\Simple Text Editor\bin\Debug\Simple Text Editor.pdb
+C:\HTET OO HLAING_00000000_DDOOCP_GLOBAL ASSIGNMENT\Simple Text Editor\obj\Debug\Simple Text Editor.csprojResolveAssemblyReference.cache
+C:\HTET OO HLAING_00000000_DDOOCP_GLOBAL ASSIGNMENT\Simple Text Editor\obj\Debug\Simple_Text_Editor.Form1.resources
+C:\HTET OO HLAING_00000000_DDOOCP_GLOBAL ASSIGNMENT\Simple Text Editor\obj\Debug\Simple_Text_Editor.Properties.Resources.resources
+C:\HTET OO HLAING_00000000_DDOOCP_GLOBAL ASSIGNMENT\Simple Text Editor\obj\Debug\Simple Text Editor.csproj.GenerateResource.Cache
+C:\HTET OO HLAING_00000000_DDOOCP_GLOBAL ASSIGNMENT\Simple Text Editor\obj\Debug\Simple Text Editor.exe
+C:\HTET OO HLAING_00000000_DDOOCP_GLOBAL ASSIGNMENT\Simple Text Editor\obj\Debug\Simple Text Editor.pdb
+C:\HTET OO HLAING_00138440_DDOOCP_GLOBAL ASSIGNMENT\Simple Text Editor\bin\Debug\Simple Text Editor.exe.config
+C:\HTET OO HLAING_00138440_DDOOCP_GLOBAL ASSIGNMENT\Simple Text Editor\obj\Debug\Simple Text Editor.exe
+C:\HTET OO HLAING_00138440_DDOOCP_GLOBAL ASSIGNMENT\Simple Text Editor\obj\Debug\Simple Text Editor.pdb
+C:\HTET OO HLAING_00138440_DDOOCP_GLOBAL ASSIGNMENT\Simple Text Editor\bin\Debug\Simple Text Editor.exe
+C:\HTET OO HLAING_00138440_DDOOCP_GLOBAL ASSIGNMENT\Simple Text Editor\bin\Debug\Simple Text Editor.pdb
+C:\HTET OO HLAING_00138440_DDOOCP_GLOBAL ASSIGNMENT\Simple Text Editor\obj\Debug\Simple Text Editor.csprojResolveAssemblyReference.cache
+C:\HTET OO HLAING_00138440_DDOOCP_GLOBAL ASSIGNMENT\Simple Text Editor\obj\Debug\Simple_Text_Editor.Form1.resources
+C:\HTET OO HLAING_00138440_DDOOCP_GLOBAL ASSIGNMENT\Simple Text Editor\obj\Debug\Simple_Text_Editor.Properties.Resources.resources
+C:\HTET OO HLAING_00138440_DDOOCP_GLOBAL ASSIGNMENT\Simple Text Editor\obj\Debug\Simple Text Editor.csproj.GenerateResource.Cache
+D:\Second_Assignment\DDOOCP\Simple Text Editor\bin\Debug\Simple Text Editor.exe.config
+D:\Second_Assignment\DDOOCP\Simple Text Editor\obj\Debug\Simple Text Editor.exe
+D:\Second_Assignment\DDOOCP\Simple Text Editor\obj\Debug\Simple Text Editor.pdb
+D:\Second_Assignment\DDOOCP\Simple Text Editor\bin\Debug\Simple Text Editor.exe
+D:\Second_Assignment\DDOOCP\Simple Text Editor\bin\Debug\Simple Text Editor.pdb
+D:\Second_Assignment\DDOOCP\Simple Text Editor\obj\Debug\Simple Text Editor.csprojResolveAssemblyReference.cache
+D:\Second_Assignment\DDOOCP\Simple Text Editor\obj\Debug\Simple_Text_Editor.Form1.resources
+D:\Second_Assignment\DDOOCP\Simple Text Editor\obj\Debug\Simple_Text_Editor.Properties.Resources.resources
+D:\Second_Assignment\DDOOCP\Simple Text Editor\obj\Debug\Simple Text Editor.csproj.GenerateResource.Cache
+D:\Second_Assignment\DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\bin\Debug\Simple Text Editor.exe.config
+D:\Second_Assignment\DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\obj\Debug\Simple Text Editor.exe
+D:\Second_Assignment\DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\obj\Debug\Simple Text Editor.pdb
+D:\Second_Assignment\DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\bin\Debug\Simple Text Editor.exe
+D:\Second_Assignment\DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\bin\Debug\Simple Text Editor.pdb
+D:\Second_Assignment\DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\obj\Debug\Simple Text Editor.csprojResolveAssemblyReference.cache
+D:\Second_Assignment\DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\obj\Debug\Simple_Text_Editor.Form1.resources
+D:\Second_Assignment\DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\obj\Debug\Simple_Text_Editor.Properties.Resources.resources
+D:\Second_Assignment\DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\obj\Debug\Simple Text Editor.csproj.GenerateResource.Cache
+D:\Second_Assignment\DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\obj\Debug\Simple_Text_Editor.Findandreplace.resources
+D:\Second_Assignment\MIN KO KO LINN_00180667_DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\bin\Debug\Simple Text Editor.exe.config
+D:\Second_Assignment\MIN KO KO LINN_00180667_DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\obj\Debug\Simple Text Editor.exe
+D:\Second_Assignment\MIN KO KO LINN_00180667_DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\obj\Debug\Simple Text Editor.pdb
+D:\Second_Assignment\MIN KO KO LINN_00180667_DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\bin\Debug\Simple Text Editor.exe
+D:\Second_Assignment\MIN KO KO LINN_00180667_DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\bin\Debug\Simple Text Editor.pdb
+D:\Second_Assignment\MIN KO KO LINN_00180667_DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\obj\Debug\Simple Text Editor.csprojResolveAssemblyReference.cache
+D:\Second_Assignment\MIN KO KO LINN_00180667_DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\obj\Debug\Simple_Text_Editor.Findandreplace.resources
+D:\Second_Assignment\MIN KO KO LINN_00180667_DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\obj\Debug\Simple_Text_Editor.Form1.resources
+D:\Second_Assignment\MIN KO KO LINN_00180667_DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\obj\Debug\Simple_Text_Editor.Properties.Resources.resources
+D:\Second_Assignment\MIN KO KO LINN_00180667_DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\obj\Debug\Simple Text Editor.csproj.GenerateResource.Cache
+D:\KMD-NCC\L4DC-125\Second_Assignment\MIN KO KO LINN_00180667_DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\bin\Debug\Simple Text Editor.exe.config
+D:\KMD-NCC\L4DC-125\Second_Assignment\MIN KO KO LINN_00180667_DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\obj\Debug\Simple Text Editor.exe
+D:\KMD-NCC\L4DC-125\Second_Assignment\MIN KO KO LINN_00180667_DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\obj\Debug\Simple Text Editor.pdb
+D:\KMD-NCC\L4DC-125\Second_Assignment\MIN KO KO LINN_00180667_DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\bin\Debug\Simple Text Editor.exe
+D:\KMD-NCC\L4DC-125\Second_Assignment\MIN KO KO LINN_00180667_DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\bin\Debug\Simple Text Editor.pdb
+D:\KMD-NCC\L4DC-125\Second_Assignment\MIN KO KO LINN_00180667_DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\obj\Debug\Simple Text Editor.csprojResolveAssemblyReference.cache
+D:\KMD-NCC\L4DC-125\Second_Assignment\MIN KO KO LINN_00180667_DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\obj\Debug\Simple_Text_Editor.Findandreplace.resources
+D:\KMD-NCC\L4DC-125\Second_Assignment\MIN KO KO LINN_00180667_DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\obj\Debug\Simple_Text_Editor.Form1.resources
+D:\KMD-NCC\L4DC-125\Second_Assignment\MIN KO KO LINN_00180667_DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\obj\Debug\Simple_Text_Editor.Properties.Resources.resources
+D:\KMD-NCC\L4DC-125\Second_Assignment\MIN KO KO LINN_00180667_DDOOCP\MG_MIN_KO_KO_LINN_00180667_DDOOCP_GA\Simple Text Editor\obj\Debug\Simple Text Editor.csproj.GenerateResource.Cache
